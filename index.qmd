@@ -3,4 +3,9 @@ title: "coreR Course Material"
 format: html
 ---
 
-Hello world!
+What we have covered in the course:
+
+
+- [Literate Analysis](script/literate-analysis.html)
+
+
